@@ -460,7 +460,7 @@ The occasional 91 is acceptable (the 95% HPD = 90 to 98 probability the implemen
 
 If correct, distributed binomial with p=0.95, N=100:
 
-|k	|	p(x=k)	|	p(x<=k)	|	p(x>=k)|
+|k	|	p(x=k)	|	p(x<=k)	|	p(x>k)|
 |---:|-----------|-----------|----------|
 | 90	|	0.0167	|	0.0282	|	0.9718|
 | 91	|	0.0349	|	0.0631	|	0.9369|
